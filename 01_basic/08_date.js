@@ -1,7 +1,7 @@
 let myname = new Date()
-//console.log(myname.toString());
-//console.log(myname.toJSON());
-//console.log(myname.toLocaleString());
+console.log(myname.toString());
+console.log(myname.toJSON());
+console.log(myname.toLocaleString());
 
 console.log(typeof myname);
 let newdate = new  Date(2025,4,12)

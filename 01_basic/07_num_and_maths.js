@@ -2,16 +2,16 @@ const score = 400
 console.log(score);
 
 const balance = new Number(100)
-//console.log(balance)
+// console.log(balance)
 
-//console.log(balance.toFixed(3)); // point ki right point add
+// console.log(balance.toFixed(3)); // point ki right point add
 
 const othernumber = 23.5536
 
-//console.log(othernumber.toPrecision(3)); // important
+// console.log(othernumber.toPrecision(3)); // important
 
 const zero = 10000 
-//console.log(zero.toLocaleString('en-in'));
+console.log(zero.toLocaleString('en-in'));
 
 //*************************************maths***********************
 

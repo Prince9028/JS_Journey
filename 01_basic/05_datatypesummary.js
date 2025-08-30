@@ -24,7 +24,7 @@
    console.log("Hello Prince");
    
  }
- //console.log(typeof scorevalue);
+ console.log(typeof scorevalue);
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
