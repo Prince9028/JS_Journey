@@ -4,22 +4,23 @@ function sayname(){
         console.log("r");
         console.log("i");
         console.log("n");
-        console.log("c");
+        console.log("r");
 }
-// sayname()
 
-// function addtwonumber(num1,num2){
-//    console.log( num1 + num2)
+sayname()
 
-// }
+function addtwonumber(num1,num2){
+   console.log( num1 + num2)
+
+}
 function addtwonumber(num1,num2){
     let result = num1+ num2
     return result 
-//    console.log( num1 + num2)
+  console.log( num1 + num2)
 
 }
 const result =addtwonumber(3,4)
-// console.log("result",result);
+ console.log("result",result);
 
 function login(username="prince"){
 
@@ -58,8 +59,8 @@ handobject({
 const mynewarray  = [200,300,400,500]
 
 function returnsecondvalue(getarray){
-    return getarray[2]
+    return getarray[4]
 }
 
 console.log(returnsecondvalue(mynewarray));
-console.log(returnsecondvalue([200,300,400,500]));
+console.log(returnsecondvalue([200,300,400,600]));
